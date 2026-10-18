@@ -99,7 +99,7 @@ export default function HomePage({ onOpenQrModal }) {
       <section className="glass-card p-6 sm:p-8 bg-gradient-to-r from-amber-50/80 via-white/90 to-amber-100/40">
         <div className="max-w-3xl space-y-3">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold bg-amber-100 text-amber-900 border border-amber-300/70">
-            🌾 {t({ bn: 'নাগরিক বান্ধব প্রাক-ক্রয় ভূমি যাচাই সহকারী', en: 'Smart Pre-Purchase Land Due-Diligence Assistant' })}
+             {t({ bn: 'নাগরিক বান্ধব প্রাক-ক্রয় ভূমি যাচাই সহকারী', en: 'Smart Pre-Purchase Land Due-Diligence Assistant' })}
           </span>
           <h1 className="text-2xl sm:text-4xl font-bold text-stone-900 leading-tight">
             {t({

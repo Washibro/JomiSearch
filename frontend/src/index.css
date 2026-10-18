@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .glass-card {
+    @apply bg-white/75 backdrop-blur-md border border-amber-200/40 shadow-sm rounded-2xl;
+  }
+  .glass-card-hover {
+    @apply bg-white/75 backdrop-blur-md border border-amber-200/40 shadow-sm rounded-2xl transition-all duration-200 hover:shadow-md hover:border-amber-400/60;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+  }
+}

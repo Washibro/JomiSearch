@@ -320,3 +320,15 @@ You can deploy **JomiSearch** to production cloud providers or any Windows/Linux
 ## 📜 9. License & Legal Disclaimer
 
 **JomiSearch** is an educational and civic-tech MVP prototype (Specification v2.0). All land records, Khatian numbers, deed numbers, owner names, and QR codes included in the seed script are **100% synthetic demo data**. Prospective buyers must always verify original deeds, Registry Balam books, and Non-Encumbrance Certificates (NEC) directly with the competent Sub-Registry Office, AC Land Office, and a qualified property lawyer before entering into any financial transaction.
+
+
+---
+
+## 🤖 10. Project Development and AI Assistance Acknowledgements
+
+The development of **JomiSearch** involved the effective integration of Artificial Intelligence (AI) and modern technologies across the project lifecycle, including concept development, system architecture, database schema design, rule engine development, and full-stack code implementation.
+
+- **Primary AI Architect and Coding Assistant:** **Gemini** was primarily used for core code generation, rule engine design, and the implementation of system logic throughout the project.
+
+- **Research and Development (R&D):** **Antigravity** and **ChatGPT** were used as R&D assistants for project idea generation, analysis of relevant land laws and regulations, and various forms of structural and technical research.
+

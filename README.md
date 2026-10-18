@@ -1,5 +1,10 @@
 #  JomiSearch (জমি সার্চ)
 
+<p align="center">
+  <img src="SS1.png" width="45%">
+  <img src="SS2.png" width="45%">
+</p>
+
 **Citizen-Facing Pre-Purchase Land Due-Diligence Assistant for Bangladesh**  
 *Smart Pre-Purchase Land Record, Khatian, Deed & Mutation Verification Platform (Version 2.0)*
 
